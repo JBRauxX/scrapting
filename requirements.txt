@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+requests
+scrapy==2.5.1
+autopep8
+pylint
